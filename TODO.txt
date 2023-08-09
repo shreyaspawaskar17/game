@@ -1,0 +1,26 @@
+TODO:
+1) To avoid creating new frames for every panel 
+2) Setting up Rounded Buttons to all the frames where and all it is needed with reference to prototype
+3) Optimization of the code
+
+
+3)Setting up frame.undecoated null to remove that windoe to give a game look
+
+
+
+To learn
+3) learn about static, final, Threads 
+
+
+
+
+Improvemnt areas
+Making the pop up boxes more informative
+
+1) Time out - Oh! Time out - (head Level incomplete)
+2) Max Miss - Gosh! misses are no more affordable
+
+
+Look at it
+*The fonts importing in the game zone panel is not as same as we have done it before, getClass() 
+	getClass() - changed to - Base.Class.getClass()
